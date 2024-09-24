@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Harjeeth Kuchar Kal</h1>
 <h3 align="center">A final year Computer Science student</h3>
 
-- 🔭 I’m currently working on a **Full Stack Blog Application**
+- 🔭 I’m currently working on a **Netflix-GPT Application**
 
 - 🌱 I’m currently learning **Node.js**
 
