@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Harjeeth Kuchar Kal</h1>
 <h3 align="center">A final year Computer Science student</h3>
 
-- 🔭 I’m currently working on a **Netflix-GPT Application**
-
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently building full stack projects 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pv5DAVp4wJMyLxr2-I5-kEqUO8-AYRAC/view?usp=sharing)
 
